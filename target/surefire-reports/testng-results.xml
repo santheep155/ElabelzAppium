@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="basicflow.AppTest" duration-ms="123882" started-at="2019-11-25T05:58:10Z" finished-at="2019-11-25T06:00:14Z">
+  <suite name="basicflow.AppTest" duration-ms="118199" started-at="2019-11-25T07:28:06Z" finished-at="2019-11-25T07:30:04Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="123882" started-at="2019-11-25T05:58:10Z" finished-at="2019-11-25T06:00:14Z">
+    <test name="Command line test" duration-ms="118199" started-at="2019-11-25T07:28:06Z" finished-at="2019-11-25T07:30:04Z">
       <class name="basicflow.AppTest">
-        <test-method status="PASS" signature="FirstTest()[pri:0, instance:basicflow.AppTest@3a82f6ef]" name="FirstTest" duration-ms="123819" started-at="2019-11-25T05:58:10Z" finished-at="2019-11-25T06:00:14Z">
+        <test-method status="PASS" signature="FirstTest()[pri:0, instance:basicflow.AppTest@3a82f6ef]" name="FirstTest" duration-ms="118041" started-at="2019-11-25T07:28:06Z" finished-at="2019-11-25T07:30:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FirstTest -->
