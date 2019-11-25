@@ -1,0 +1,4 @@
+pages\CheckoutPage.class
+pages\LoginPage.class
+utility\GenericLogic.class
+utility\base.class
